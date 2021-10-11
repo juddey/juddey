@@ -1,11 +1,9 @@
 # 👋 Hello World, I'm Justin
 
 <div align="center">
-
 <a href="https://reactnative.dev" target="_blank" alt="react" ><img src="https://github.com/juddey/juddey/blob/main/img/react.png" width="48"></a>
 <a href="https://elixir-lang.org" target="_blank" alt="elixir"><img src="https://github.com/juddey/juddey/blob/main/img/elixir.png" width="48"></a>
 <a href="https://ruby-lang.org" target="_blank" alt="ruby"><img src="https://github.com/juddey/juddey/blob/main/img/ruby.png" width="48"></a>
-
 </div>
 
 <br />
@@ -13,13 +11,9 @@
 <div align="center">react-native and elixir engineer</div>
 
 ## 🇳🇿
-
 <div align="center">Looking for my resume? <a href="//justinlane.org">Right this way.</a></div>
 </div>
 </div>
-
-<br />
-
 #  
 
 **Code Samples**
