@@ -3,7 +3,7 @@
 
   <a href="https://react-native.dev" target="_blank" alt="react" ><img src="https://github.com/juddey/juddey/blob/main/img/react.png" width="48"></a>
   <a href="https://elixir-lang.org" target="_blank" alt="elixir"><img src="https://github.com/juddey/juddey/blob/main/img/elixir.png" width="48"></a>
-  <a href="https://ruby-lang.org" target="_blank" alt="ruby"><img src="https://github.com/juddey/juddey/main/blob/img/ruby.png" width="48"></a>
+  <a href="https://ruby-lang.org" target="_blank" alt="ruby"><img src="https://github.com/juddey/juddey/blob/main/img/ruby.png" width="48"></a>
 </div>
 
 #
