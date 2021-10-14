@@ -1,6 +1,4 @@
-<table width="100%">
-<tr>
-   <td>
+<div width="100%">
 <h1 align="center">👋 Hello World, I'm Justin</h1>
 <h3 align="center">react-native and elixir engineer in 🇳🇿</h3>
 <div align="center">
@@ -8,10 +6,7 @@
 <a href="https://elixir-lang.org" target="_blank" alt="elixir"><img src="https://github.com/juddey/juddey/blob/main/img/elixir.png" width="64"></a>
 <a href="https://ruby-lang.org" target="_blank" alt="ruby"><img src="https://github.com/juddey/juddey/blob/main/img/ruby.png" width="64"></a>
 </div>
-
-</td>
-  </tr>
-</table>
+</div>
 
 <br />
 
@@ -27,8 +22,10 @@
 
 - You can get in touch with me at <justin@justinlane.org> or [tweet](https://twitter.com/juddeylane) at me for a discussion or chat.
 
-<br />
+<hr />
 
+<div width="100%" align="center">
+  
 <table width="100%">
   <tr>
     <td width="50%">
@@ -53,5 +50,6 @@
     </td>
   </tr>
 </table>
+</div>
 
 <p align="center" >Thanks for stopping by!</p>
